@@ -8,4 +8,5 @@
         if(map[num]) return true
         map[num] = true
     }
+    return false
 };
