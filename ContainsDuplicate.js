@@ -3,5 +3,5 @@
  * @return {boolean}
  */
  var containsDuplicate = function(nums) {
- 
+    const map = {}
 };
