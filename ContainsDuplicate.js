@@ -15,6 +15,7 @@
 /*
 
 - Create a map to store the numbers we’ve seen so far.
+- Loop through the array and check if the current number is in the map.
 
 
 */
