@@ -6,5 +6,6 @@
     const map = {}
     for(const num of nums) {
         if(map[num]) return true
+        map[num] = true
     }
 };
