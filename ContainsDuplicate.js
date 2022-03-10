@@ -18,6 +18,7 @@
 - Loop through the array and check if the current number is in the map.
 - If it is, we return true.
 - If it isn’t, we add it to the map.
+- Once we’ve looped through the array, we return false.
 
 
 */
