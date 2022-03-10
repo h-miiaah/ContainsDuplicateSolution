@@ -14,6 +14,7 @@
 
 /*
 
+- Create a map to store the numbers we’ve seen so far.
 
 
 */
